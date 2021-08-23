@@ -1,0 +1,6 @@
+ 8c4bc6173bd3c7a3b5f11c4eaead6ab1f73e7633
+
+ curl "https://api.nomics.com/v1/currencies/ticker?key=8c4bc6173bd3c7a3b5f11c4eaead6ab1f73e7633&ids=BTC,ETH,AAV&interval=1d,30d,365d&convert=EUR"
+
+
+curl "https://api.nomics.com/v1/currencies?key=8c4bc6173bd3c7a3b5f11c4eaead6ab1f73e7633&ids=BTC&attributes=id,name,logo_url,description,reddit_url"
