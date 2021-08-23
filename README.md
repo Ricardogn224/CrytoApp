@@ -1,6 +1,6 @@
 
 
-To visite the website go to : https://crytoapp.vercel.app/
+To visite the website project go to : https://crytoapp.vercel.app/
 
 
 
